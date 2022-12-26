@@ -1,0 +1,2 @@
+- 🎆 I'm 17 year old Coder
+- 🎀 Rust and Typescript Developer
